@@ -1,0 +1,3 @@
+instalador de jsonwebtoken (OBLIGATORIO)
+
+npm install jsonwebtoken
